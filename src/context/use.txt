@@ -1,0 +1,1 @@
+The Context API can be used to share data with multiple components, without having to pass data through props manually
