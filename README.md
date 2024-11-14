@@ -1,8 +1,14 @@
-# React + Vite
+# ShopClick E-Commerce Project
+(`***`)
+Welcome to ShopClick repository! 
+Developed fully-functional e-commerce web application. Shopclick, that provides users with seamless online shopping experience. To develop this project using following stacks : ReactJs, Tailwind, Firebase, Razorpay.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
+(`***`)
+To run this project to your local machine, follow the instructions given below:-
 
-Currently, two official plugins are available:
+### Prerequisites
+(`***`)
+- Node.js: Download and Install from official site: https://nodejs.org
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
