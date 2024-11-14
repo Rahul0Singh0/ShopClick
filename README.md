@@ -11,4 +11,9 @@ To run this project to your local machine, follow the instructions given below:-
 
 - Node.js: Download and Install from official site: https://nodejs.org
 
+### Installation
+* Clone this repository on your local machine using Git:
+  > git clone https://github.com/your-username/e-commerce-project.git
 
+* Install the dependencies:
+  > npm install
