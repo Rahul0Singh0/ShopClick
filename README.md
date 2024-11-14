@@ -13,7 +13,18 @@ To run this project to your local machine, follow the instructions given below:-
 
 ### Installation
 * Clone this repository on your local machine using Git:
-  > git clone https://github.com/your-username/e-commerce-project.git
+  ```bash
+  git clone https://github.com/your-username/e-commerce-project.git
+  ```
 
 * Install the dependencies:
-  > npm install
+  ```bash
+  npm run
+  ```
+
+### Use 
+
+* To start server and run the application on your local machine:
+```bash
+npm start
+```
