@@ -12,6 +12,10 @@ The following technologies were used to build this project:
 - **Tailwind**: CSS framework that allows you to build custom designs.
 - **Firebase**: Authentication, Realtime Database, Cloud Firestore.
 
+## Live Demo
+
+[**Click here**](https://shopclick.netlify.app/)
+
 ## Getting Started
 
 To run this project to your local machine, follow the instructions given below:-
