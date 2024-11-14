@@ -3,7 +3,7 @@ import { Link, useNavigate } from 'react-router-dom'
 import myContext from '../../context/data/myContext'
 import { signInWithEmailAndPassword } from 'firebase/auth';
 import { toast } from 'react-toastify';
-import { auth } from '../../firebase/firebaseConfig';
+import { auth } from '../../firebase/FirebaseConfig';
 import Loader from '../../components/loader/Loader';
 
 function Login() {
