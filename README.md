@@ -32,7 +32,7 @@ To run this project to your local machine, follow the instructions given below:-
 
 * Install the dependencies:
   ```bash
-  npm start
+  npm install
   ```
 
 ### Use 
