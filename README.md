@@ -27,7 +27,7 @@ To run this project to your local machine, follow the instructions given below:-
 ### Installation
 * Clone this repository on your local machine using Git:
   ```bash
-  git clone https://github.com/your-username/e-commerce-project.git
+  git clone https://github.com/Rahul0Singh0/ShopClick
   ```
 
 * Install the dependencies:
